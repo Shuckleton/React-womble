@@ -1,2 +1,2 @@
-# svelte-womble
-Biometrics using Svelte - Native
+# React
+Biometrics using React - Native
